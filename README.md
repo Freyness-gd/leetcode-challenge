@@ -2,9 +2,13 @@
 LeetCode Challenges Solutions
 
 Legend:
+
 :heavy_check_mark: - Finished
+
 :x: - Error
+
 :cockroach: - Bug / Improvment needed
+
 :rocket: - Improved performance
 
 Progress:
