@@ -13,7 +13,7 @@ Legend:
 
 :x: - Error
 
-:cockroach: - Bug / Improvment needed
+:cockroach: - Bug / Improvement needed
 
 :rocket: - Improved performance
 
@@ -23,3 +23,4 @@ Progress:
 
 - Longest Common Prefix :heavy_check_mark:
 - Roman to Integer :heavy_check_mark:
+- Three sum :cockroach: ("Time Limit Exceeded")

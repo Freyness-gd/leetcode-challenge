@@ -1,5 +1,6 @@
 import challenges.*;
 
+
 public class Main {
 
 //    To run any challenge:
@@ -9,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("challenges.longestCommonPrefix.solution: \n"
-                + longestCommonPrefix.solution(new String[]{"flower", "flow", "floor"}));
+        System.out.println(threeSum.solution(new int[]{-1, 0, 1, 2, -1, -4}));
+
     }
 }
