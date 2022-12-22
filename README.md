@@ -3,7 +3,7 @@ LeetCode Challenges Solutions
 
 :open_book: How to run: 
 
-1. In Main.java 
+1. In Java.Main.java 
 2. Use static function (or read instructions in challenge)
 3. Print out ChallengeClass.solution(input)
 

@@ -1,9 +1,9 @@
-package challenges.palindromeLinkedList;
+package Java.palindromeLinkedList;
 
 import java.util.ArrayList;
 import java.util.Objects;
 
-// Insert Data Structure in Main.java and start the function with n1
+// Insert Data Structure in Java.challenges.Main.java and start the function with n1
 //static ListNode n4 = new ListNode(1);
 //static ListNode n3 = new ListNode(2, n4);
 //static ListNode n2 = new ListNode(2, n3);

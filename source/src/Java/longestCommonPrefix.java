@@ -1,4 +1,4 @@
-package challenges;
+package Java;
 
 public class longestCommonPrefix {
 

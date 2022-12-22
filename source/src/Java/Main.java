@@ -1,6 +1,4 @@
-import challenges.*;
-import challenges.palindromeLinkedList.*;
-
+package Java;
 
 public class Main {
 
