@@ -1,6 +1,7 @@
 package challenges.palindromeLinkedList;
 
 import java.util.ArrayList;
+import java.util.Objects;
 
 public class palindromeLinkedList {
 
@@ -15,7 +16,7 @@ public class palindromeLinkedList {
         }
 
         for(int i = 0; i < values.size()/2; i++){
-            if(values.get(i) != values.get(values.size()-1-i)){
+            if(!Objects.equals(values.get(i), values.get(values.size() - 1 - i))){
                 return false;
             }
         }
