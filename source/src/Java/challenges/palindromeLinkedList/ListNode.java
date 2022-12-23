@@ -1,4 +1,4 @@
-package Java.palindromeLinkedList;
+package Java.challenges.palindromeLinkedList;
 
 public class ListNode {
     int val;

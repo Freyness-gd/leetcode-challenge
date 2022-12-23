@@ -1,5 +1,6 @@
 package Java;
 
+
 public class Main {
 
 //    To run any challenge:

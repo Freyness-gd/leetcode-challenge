@@ -1,4 +1,4 @@
-package Java.palindromeLinkedList;
+package Java.challenges.palindromeLinkedList;
 
 import java.util.ArrayList;
 import java.util.Objects;
