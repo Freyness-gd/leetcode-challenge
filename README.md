@@ -37,4 +37,4 @@ Progress:
 - Roman to Integer :heavy_check_mark: :coffee:
 - Three sum :cockroach: ("Time Limit Exceeded") :coffee:
 - Palindrom Linked List :heavy_check_mark: :coffee:
-- Maximum Depth of Binary Tree :cockroach: ("Time Limit Exceeded") :snake:
+- Maximum Depth of Binary Tree :heavy_check_mark:  :rocket: :snake:

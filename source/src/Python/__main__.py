@@ -3,8 +3,7 @@ from source.src.Python.challenges.maximumDepthBinaryTree.maxDepth import MaxDept
 
 if __name__ == "__main__":
 
-    node7 = TreeNode(10)
-    node6 = TreeNode(8, node7)
+    node6 = TreeNode(8)
     node1 = TreeNode(9)
     node2 = TreeNode(15, node6)
     node3 = TreeNode(7)
@@ -13,5 +12,4 @@ if __name__ == "__main__":
 
     depth = MaxDepth()
 
-    print(f"Root has child left {node5.left.val} and right {node5.right.val}")
     print(f"Max Depth of Tree {depth.maxDepth(node5)}")
