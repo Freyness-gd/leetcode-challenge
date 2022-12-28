@@ -1,15 +1,18 @@
-from source.src.Python.challenges.maximumDepthBinaryTree.TreeNode import TreeNode
-from source.src.Python.challenges.maximumDepthBinaryTree.maxDepth import MaxDepth
+from source.src.Python.challenges.addTwoNumbers import ListNode, addToNumbers
 
 if __name__ == "__main__":
 
-    node6 = TreeNode(8)
-    node1 = TreeNode(9)
-    node2 = TreeNode(15, node6)
-    node3 = TreeNode(7)
-    node4 = TreeNode(20, node2, node3)
-    node5 = TreeNode(3, node1, node4)
+    node1 = ListNode(5)
+    node2 = ListNode(6, node1)
+    node3 = ListNode(4, node2)
 
-    depth = MaxDepth()
+    node4 = ListNode(2)
+    node5 = ListNode(4, node4)
+    node6 = ListNode(3, node5)
 
-    print(f"Max Depth of Tree {depth.maxDepth(node5)}")
+    solution = addToNumbers
+    sol = solution.addTwoNumbers(solution,node3, node6)
+
+    while sol is not None:
+        print(f"Value: {sol.val}" )
+        sol = sol.next

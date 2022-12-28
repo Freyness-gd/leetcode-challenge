@@ -38,3 +38,4 @@ Progress:
 - Three sum :cockroach: ("Time Limit Exceeded") :coffee:
 - Palindrom Linked List :heavy_check_mark: :coffee:
 - Maximum Depth of Binary Tree :heavy_check_mark:  :rocket: :snake:
+- Add Two Numbers :heavy_check_mark: :snake: (*Try to make code shorter*)
