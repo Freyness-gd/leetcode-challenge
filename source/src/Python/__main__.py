@@ -1,18 +1,8 @@
-from source.src.Python.challenges.addTwoNumbers import ListNode, addToNumbers
+from source.src.Python.challenges.containerWithMostWater import maxContainer
 
 if __name__ == "__main__":
-
-    node1 = ListNode(5)
-    node2 = ListNode(6, node1)
-    node3 = ListNode(4, node2)
-
-    node4 = ListNode(2)
-    node5 = ListNode(4, node4)
-    node6 = ListNode(3, node5)
-
-    solution = addToNumbers
-    sol = solution.addTwoNumbers(solution,node3, node6)
-
-    while sol is not None:
-        print(f"Value: {sol.val}" )
-        sol = sol.next
+    print("Start")
+    container = maxContainer
+    height = [1, 8, 6, 2, 5, 4, 8, 3, 7]
+    max = container.maxArea(container, height)
+    print(f"max = {max}")
