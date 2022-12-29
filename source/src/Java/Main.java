@@ -9,6 +9,6 @@ public class Main {
 //    2. Print the challenge
 
     public static void main(String[] args) {
-
+        
     }
 }

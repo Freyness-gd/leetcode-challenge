@@ -41,3 +41,4 @@ Progress:
 - Add Two Numbers :heavy_check_mark: :snake: (*Try to make code shorter*)
 - Container With Most Water :heavy_check_mark: :snake:
 - Ransom Note :heavy_check_mark: :coffee:
+- Fizz Buzz :heavy_check_mark: :coffee:
