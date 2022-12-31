@@ -1,5 +1,7 @@
-# leetcode-challenge
+## leetcode-challenge
 LeetCode Challenges Solutions
+
+# LeetCode Profile: https://leetcode.com/Freyness/
 
 :open_book: How to run: 
 
