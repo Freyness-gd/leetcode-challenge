@@ -45,3 +45,4 @@ Progress:
 - Middle of Linked List :heavy_check_mark: :coffee:
 - The K Weakest Rows In A Matrix :heavy_check_mark: :coffee:
 - Numbers of Steps to Reduce a Number to Zero :heavy_check_mark: :coffee:
+- Richest Customer Wealth :heavy_check_mark: :coffee:
