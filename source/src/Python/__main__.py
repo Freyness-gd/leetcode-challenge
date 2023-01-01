@@ -1,8 +1,8 @@
-from source.src.Python.challenges.containerWithMostWater import maxContainer
+from source.src.Python.challenges.twoSum import TwoSum
 
 if __name__ == "__main__":
-    print("Start")
-    container = maxContainer
-    height = [1, 8, 6, 2, 5, 4, 8, 3, 7]
-    max = container.maxArea(container, height)
-    print(f"max = {max}")
+
+    object = TwoSum()
+    l = [3, 2, 4]
+    res = object.twoSum(l, 6)
+    print(f"Result: {res}")
