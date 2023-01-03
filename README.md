@@ -1,5 +1,8 @@
 # leetcode-challenge
-LeetCode Challenges Solutions
+## LeetCode Challenges Solutions
+### LeetCode Profile: https://leetcode.com/Freyness/
+
+
 
 :open_book: How to run: 
 
@@ -46,3 +49,4 @@ Progress:
 - The K Weakest Rows In A Matrix :heavy_check_mark: :coffee:
 - Numbers of Steps to Reduce a Number to Zero :heavy_check_mark: :coffee:
 - Richest Customer Wealth :heavy_check_mark: :coffee:
+- Two Sum :heavy_check_mark: :snake:
